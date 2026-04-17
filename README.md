@@ -1,7 +1,7 @@
 # Kypros Vassiliou
 
 Founder, operator, still a builder at heart.
-Running [K.D. Vassiliou Group](https://kvassiliou.com) from Cyprus.
+Running [K.D. Vassiliou Group](https://kvassiliou.com) from Europe.
 
 ## Stack
 
